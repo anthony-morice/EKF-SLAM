@@ -1,4 +1,4 @@
-# EFK-SLAM with known correspondences
+# EKF-SLAM with known correspondences
 
 This project was developed to fulfill the final requirements of the ***CSCI 5552 Sensing and Estimation in Robotics*** course offered at the University of Minnesota. The repository structure reflects the necessary file hierarchy of the ***Webots*** open source robot simulator that was used to run the extended kalman filter (EKF) based simultaneous localization and mapping (SLAM) algorithm.
 
